@@ -491,13 +491,13 @@ hr {
 .tile.tile-2048 .tile-inner {
     font-size: 0px;
     background-image: url('../img/sahar.jpeg');
-    /* use ../img/pumpkin-cupcake.jpg for fall */
     background-size: cover;
 }
 
 .tile.tile-super .tile-inner {
     font-size: 0px;
-    background-image: url('../img/gold-cupcake.jpg');
+    background-image: url('../img/tim.jpeg');
+    /*Cycles back to Tim for now, currently thinking of recommendations for new one.*/
     background-size: cover;
 }
 
